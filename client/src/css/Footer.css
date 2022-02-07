@@ -1,0 +1,5 @@
+ModalHeader{
+    user-select: none;
+    pointer-events: none;
+    cursor: help;
+}
